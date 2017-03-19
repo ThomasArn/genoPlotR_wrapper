@@ -9,4 +9,4 @@ The input is a multifasta file.
 
 output example:
 
-![alt tag](https://github.com/ThomasArn/genoPlotR_wrapper/blob/master/plots/Recombination_comparison.pdf)
+![alt tag](https://github.com/ThomasArn/genoPlotR_wrapper/blob/master/plots/Recombination_comparison.jpg)
