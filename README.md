@@ -6,6 +6,7 @@ GenoPlotR makes a gene synteny plot, but pre-processing of data is necessary. Th
 Dependencies are mafft, raxmlHPC, python, biopython, prokka, blastn and the R pacakges genoPlotR, ape and ade4.
 
 The input is a multifasta file. 
+
  ```recomb_genoplotR_wrapper.sh multifasta```
 
 The output is a pdf file with the gene synteny plot
