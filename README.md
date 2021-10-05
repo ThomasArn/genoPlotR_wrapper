@@ -7,7 +7,7 @@ Dependencies are mafft, raxmlHPC, python, biopython, prokka, blastn and the R pa
 
 The input is a multifasta file. 
 
-   ```recomb_genoplotR_wrapper.sh multifasta```
+   ```sh recomb_genoplotR_wrapper.sh multifasta```
 
 The output is a pdf file with the gene synteny plot
 
